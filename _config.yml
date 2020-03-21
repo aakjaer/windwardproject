@@ -1,0 +1,17 @@
+name: Windward Project
+description: 
+author:
+  name: Daniel Aakjær Sørensen
+  email: hello@windwardproject.com
+
+host: 0.0.0.0
+
+sass:
+  sass_dir: assets/_scss
+
+permalink: date
+highlighter: rouge
+
+
+gems:
+  - jekyll-sitemap

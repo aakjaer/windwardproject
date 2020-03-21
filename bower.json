@@ -1,0 +1,17 @@
+{
+  "name": "Windward Project",
+  "homepage": "https://github.com/aakjaer/windwardproject",
+  "authors": [
+    ""
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ]
+}
