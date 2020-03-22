@@ -8,14 +8,16 @@ html, body {
 }
 
 body {
-    background: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
+    background: url(/assets/img/splash-bg.jpg) center no-repeat;
+    background-size: cover;
 }
 
 .logo {
     width: 90%;
+    max-width: 1000px;
 
     path {
         fill: #F06278;
