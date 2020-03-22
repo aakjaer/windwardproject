@@ -8,18 +8,16 @@ html, body {
 }
 
 body {
-    background: #FFDC9C;
-}
-
-.logo {
+    background: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: auto;
+}
+
+.logo {
     width: 90%;
-    height: 100%;
 
     path {
-        fill: #F78492;
+        fill: #F06278;
     }
 }
